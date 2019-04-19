@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px) {
+    
+ /************************************
+ two column layout
+ ************************************/
+ #gallery li {
+    float: unset;
+    width: 90%;
+
+ }    
+}
